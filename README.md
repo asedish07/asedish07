@@ -1,5 +1,3 @@
-### Hi there I'm KDW(Asedish07) 👋
-
 <!--
 **asedish07/asedish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Algorithm 😲
+### Me
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07)](https://solved.ac/asedish07/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodns1025)](https://solved.ac/eodns1025/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asedish07&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=asedish07&show_icons=true">
 <br />
 
 ### Skills 
