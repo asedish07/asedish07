@@ -1,4 +1,6 @@
-### Hi there 👋
+<link rel="makingcenter" href="example.css">
+
+### Hi there I'm KDW(Asedish07) 👋
 
 <!--
 **asedish07/asedish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Algorithm 😲
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07)](https://solved.ac/asedish07/)
-<div style="align="center"">
+<br />
+
+### Skills 
+<div class="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
