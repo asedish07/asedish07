@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <div style="display: flex; align-items: center;">
   <a href="https://solved.ac/asedish07/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07" style="margin-right: 2px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07" >
   </a>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asedish07&layout=compact" class="my">
