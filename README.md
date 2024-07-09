@@ -16,12 +16,12 @@ Here are some ideas to get you started:
     <h2>About Me</h2>
 </div>
 
-<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07)](https://solved.ac/asedish07/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asedish07&layout=compact" class="my"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=asedish07&show_icons=true" class="my">
 <br/>
--->
+
+<!--
 <div style="display: flex; align-items: center;">
   <a href="https://solved.ac/asedish07/" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asedish07" >
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=asedish07&show_icons=true" class="my">
   </div>
 </div>
+-->
 
 <div align="center">
     <h2>Skills</h2>
